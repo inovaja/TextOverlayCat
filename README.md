@@ -1,6 +1,7 @@
 # TextOverlayCat
 
-![Resultado](imagem_com_texto_centralizado.jpg)
+![Resultado1](imagem_com_texto_centralizado.jpg)
+![Resultado2](imagem_com_texto_centralizado-2.jpg)
 
 Este repositório contém um script em Python que realiza as seguintes tarefas:
 
