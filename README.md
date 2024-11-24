@@ -66,5 +66,6 @@ Certifique-se de que os seguintes itens estão instalados no seu ambiente:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SeuUsuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/inovaja/TextOverlayCat.git
+   cd TextOverlayCat
+   python TextOverlayCat
